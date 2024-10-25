@@ -1,0 +1,7 @@
+# Ignorera __pycache__-mappen och .pyc-filer
+__pycache__/
+*.pyc
+
+# Ignorera virtuella miljöer
+venv/
+.env/

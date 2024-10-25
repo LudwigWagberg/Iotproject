@@ -1,0 +1,52 @@
+2024-10-18 13:24:09,765 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-18 13:24:18,306 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-18 13:24:19,114 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-18 13:24:36,707 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567819
+2024-10-18 13:24:37,515 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567819
+2024-10-18 13:24:38,260 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567819
+2024-10-18 13:24:39,901 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567810
+2024-10-18 13:24:40,509 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567810
+2024-10-18 13:24:41,185 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567810
+2024-10-22 10:47:21,747 - ERROR - Error connecting to MariaDB Platform: Plugin caching_sha2_password could not be loaded: The specified module could not be found. Library path is 'c:\Program Files\MariaDB\MariaDB Connector C 64-bit\lib\plugin\caching_sha2_password.dll'
+2024-10-24 14:30:24,194 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 14:30:49,449 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 14:52:19,981 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:03:42,052 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:03:53,400 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:07:20,503 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:07:57,504 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2026-01-18 09:01:38' for key 'PRIMARY'
+2024-10-24 15:07:57,504 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2324-02-28 07:51:18' for key 'PRIMARY'
+2024-10-24 15:13:11,360 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2026-01-18 09:01:38' for key 'PRIMARY'
+2024-10-24 15:13:11,375 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2324-02-28 07:51:18' for key 'PRIMARY'
+2024-10-24 15:17:13,787 - WARNING - Warning: No data received from the sensor. Attempt 1 of 3. Retrying...
+2024-10-24 15:17:28,795 - WARNING - Warning: No data received from the sensor. Attempt 2 of 3. Retrying...
+2024-10-24 15:17:32,904 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2026-01-18 09:01:38' for key 'PRIMARY'
+2024-10-24 15:17:32,904 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2324-02-28 07:51:18' for key 'PRIMARY'
+2024-10-24 15:17:47,935 - WARNING - Warning: No data received from the sensor. Attempt 1 of 3. Retrying...
+2024-10-24 15:18:02,939 - WARNING - Warning: No data received from the sensor. Attempt 2 of 3. Retrying...
+2024-10-24 15:18:17,951 - ERROR - No data received for the last 24 hours
+2024-10-24 15:31:25,740 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2026-01-18 09:01:38' for key 'PRIMARY'
+2024-10-24 15:31:25,740 - ERROR - Error inserting data into MariaDB: Duplicate entry '869181034567890-2324-02-28 07:51:18' for key 'PRIMARY'
+2024-10-24 15:35:28,392 - WARNING - Warning: No data received from the sensor. Attempt 1 of 3. Retrying...
+2024-10-24 15:35:43,407 - WARNING - Warning: No data received from the sensor. Attempt 2 of 3. Retrying...
+2024-10-24 15:35:58,423 - ERROR - No data received for the last 24 hours
+2024-10-24 15:35:58,423 - ERROR - Handled Exception: No data received for the last 24 hours
+2024-10-24 15:36:13,439 - WARNING - Warning: No data received from the sensor. Attempt 1 of 3. Retrying...
+2024-10-24 15:36:28,455 - WARNING - Warning: No data received from the sensor. Attempt 2 of 3. Retrying...
+2024-10-24 15:36:37,923 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:36:43,467 - ERROR - No data received for the last 24 hours
+2024-10-24 15:36:43,467 - ERROR - Handled Exception: No data received for the last 24 hours
+2024-10-24 15:37:06,892 - WARNING - Warning: No data received from the sensor. Attempt 1 of 3. Retrying...
+2024-10-24 15:37:21,924 - WARNING - Warning: No data received from the sensor. Attempt 2 of 3. Retrying...
+2024-10-24 15:37:26,190 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:37:28,346 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:37:30,084 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:37:34,908 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:37:35,955 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567890
+2024-10-24 15:37:36,971 - ERROR - No data received for the last 24 hours
+2024-10-24 15:37:37,018 - ERROR - Handled Exception: No data received for the last 24 hours
+2024-10-24 15:37:52,033 - WARNING - Warning: No data received from the sensor. Attempt 1 of 3. Retrying...
+2024-10-24 15:38:07,039 - WARNING - Warning: No data received from the sensor. Attempt 2 of 3. Retrying...
+2024-10-24 15:38:08,144 - ERROR - Handled Exception: Temperature is out of range: Temperature to low in timestamp 2: -17.8°C: In IMEI: 869181034567891
+2024-10-24 15:38:22,045 - ERROR - No data received for the last 24 hours
+2024-10-24 15:38:22,045 - ERROR - Handled Exception: No data received for the last 24 hours
